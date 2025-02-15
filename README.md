@@ -46,7 +46,8 @@ A simple Snake Game implemented in Python using the `turtle` module. This projec
 - `data.txt`: Stores the highest score achieved.
 
 ## Dependencies
-This project uses Python's built-in `turtle` module and does not require external dependencies.
+This project uses Python's built-in `turtle` module and does not require external dependencies (except for tkinter on Arch Linux).
+
 
 ## Demo
 ![demo](https://github.com/user-attachments/assets/d9029155-2e8c-46fa-89ee-485a2f1b6475)
