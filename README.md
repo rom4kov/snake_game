@@ -24,7 +24,7 @@ A simple Snake Game implemented in Python using the `turtle` module. This projec
 1. Clone the repository:
    ```sh
    git clone https://github.com/rom4kov/snake_game.git
-   cd snake-game
+   cd snake_game
    ```
 2. Ensure you have Python installed (recommended: Python 3.x).
 
